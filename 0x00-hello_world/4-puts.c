@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
- *main - entry point
- *return: always 0 (suxxess)
+ * main - Entry point
+ * Description: '4-puts'
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+	puts("/"Programming is like building a multilingual puzzle");
+	return (0);
 }
